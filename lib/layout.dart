@@ -19,7 +19,7 @@ class Layout extends StatelessWidget {
           'Learn Flutter the fun way!',
           style: TextStyle(
             color: Colors.white,
-            fontSize: 30,
+            fontSize: 40,
           ),
         ),
       ],
